@@ -1,0 +1,12 @@
+ Hardware Components
+- Arduino Uno (or compatible board)
+- HC-SR04 Ultrasonic Sensor
+- Buzzer
+- LEDs (Green, Yellow, Red)
+- Resistors (appropriate values for LEDs)
+- Jumper Wires
+
+ Project File Structure
+- Place `bad-driver-sensor` project files in a dedicated folder
+- Ensure `peaches.h` is in the same directory as the main Arduino script
+- Install required libraries through Arduino IDE Library Manager
